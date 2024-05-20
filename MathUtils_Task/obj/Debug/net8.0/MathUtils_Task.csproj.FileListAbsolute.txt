@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\bin\Debug\net8.0\MathUtils_Task.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\bin\Debug\net8.0\MathUtils_Task.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\bin\Debug\net8.0\MathUtils_Task.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\bin\Debug\net8.0\MathUtils_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\bin\Debug\net8.0\MathUtils_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\refint\MathUtils_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\MathUtils_Task.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MathUtils_Task\obj\Debug\net8.0\ref\MathUtils_Task.dll

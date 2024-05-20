@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\bin\Debug\net8.0\TrafficLightTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\bin\Debug\net8.0\TrafficLightTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\bin\Debug\net8.0\TrafficLightTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\bin\Debug\net8.0\TrafficLightTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\bin\Debug\net8.0\TrafficLightTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\refint\TrafficLightTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\TrafficLightTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\TrafficLightTask\obj\Debug\net8.0\ref\TrafficLightTask.dll

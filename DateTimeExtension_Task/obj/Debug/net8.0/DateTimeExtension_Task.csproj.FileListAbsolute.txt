@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\bin\Debug\net8.0\DateTimeExtension_Task.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\bin\Debug\net8.0\DateTimeExtension_Task.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\bin\Debug\net8.0\DateTimeExtension_Task.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\bin\Debug\net8.0\DateTimeExtension_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\bin\Debug\net8.0\DateTimeExtension_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\refint\DateTimeExtension_Task.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\DateTimeExtension_Task.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\DateTimeExtension_Task\obj\Debug\net8.0\ref\DateTimeExtension_Task.dll

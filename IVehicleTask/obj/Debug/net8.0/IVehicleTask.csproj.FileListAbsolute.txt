@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\bin\Debug\net8.0\IVehicleTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\bin\Debug\net8.0\IVehicleTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\bin\Debug\net8.0\IVehicleTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\bin\Debug\net8.0\IVehicleTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\bin\Debug\net8.0\IVehicleTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\refint\IVehicleTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\IVehicleTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\IVehicleTask\obj\Debug\net8.0\ref\IVehicleTask.dll

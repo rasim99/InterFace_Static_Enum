@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\bin\Debug\net8.0\AvarageMetodForIntArrTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\bin\Debug\net8.0\AvarageMetodForIntArrTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\bin\Debug\net8.0\AvarageMetodForIntArrTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\bin\Debug\net8.0\AvarageMetodForIntArrTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\bin\Debug\net8.0\AvarageMetodForIntArrTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\refint\AvarageMetodForIntArrTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\AvarageMetodForIntArrTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\AvarageMetodForIntArrTask\obj\Debug\net8.0\ref\AvarageMetodForIntArrTask.dll

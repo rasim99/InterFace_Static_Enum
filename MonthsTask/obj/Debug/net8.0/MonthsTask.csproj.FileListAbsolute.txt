@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\bin\Debug\net8.0\MonthsTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\bin\Debug\net8.0\MonthsTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\bin\Debug\net8.0\MonthsTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\bin\Debug\net8.0\MonthsTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\bin\Debug\net8.0\MonthsTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\refint\MonthsTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\MonthsTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\MonthsTask\obj\Debug\net8.0\ref\MonthsTask.dll

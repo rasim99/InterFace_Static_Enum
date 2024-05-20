@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\bin\Debug\net8.0\InterFace_Static_Enums.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\bin\Debug\net8.0\InterFace_Static_Enums.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\bin\Debug\net8.0\InterFace_Static_Enums.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\bin\Debug\net8.0\InterFace_Static_Enums.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\bin\Debug\net8.0\InterFace_Static_Enums.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\refint\InterFace_Static_Enums.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\InterFace_Static_Enums.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\InterFace_Static_Enums\obj\Debug\net8.0\ref\InterFace_Static_Enums.dll

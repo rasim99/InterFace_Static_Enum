@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\bin\Debug\net8.0\PlaylistTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\bin\Debug\net8.0\PlaylistTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\bin\Debug\net8.0\PlaylistTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\bin\Debug\net8.0\PlaylistTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\bin\Debug\net8.0\PlaylistTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\refint\PlaylistTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\PlaylistTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\PlaylistTask\obj\Debug\net8.0\ref\PlaylistTask.dll

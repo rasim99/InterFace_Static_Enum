@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\bin\Debug\net8.0\StringReverseExtensionTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\bin\Debug\net8.0\StringReverseExtensionTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\bin\Debug\net8.0\StringReverseExtensionTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\bin\Debug\net8.0\StringReverseExtensionTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\bin\Debug\net8.0\StringReverseExtensionTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\refint\StringReverseExtensionTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\StringReverseExtensionTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\StringReverseExtensionTask\obj\Debug\net8.0\ref\StringReverseExtensionTask.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\bin\Debug\net8.0\ProductCatalogTask.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\bin\Debug\net8.0\ProductCatalogTask.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\bin\Debug\net8.0\ProductCatalogTask.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\bin\Debug\net8.0\ProductCatalogTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\bin\Debug\net8.0\ProductCatalogTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\refint\ProductCatalogTask.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ProductCatalogTask.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\PB401\InterFace_Static_Enums\ProductCatalogTask\obj\Debug\net8.0\ref\ProductCatalogTask.dll
